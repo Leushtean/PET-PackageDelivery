@@ -24,6 +24,11 @@
 
 // Body Locked
 body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+
+
     &.locked {
         overflow: hidden;
     }
